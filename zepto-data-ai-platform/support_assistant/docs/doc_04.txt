@@ -1,0 +1,1 @@
+Once an order is placed, live tracking is available via the Zepto application map interface. You can view the order packing progress, delivery partner assignment, and real-time GPS location. Contact details of the assigned delivery partner become visible once the order is out for delivery.
